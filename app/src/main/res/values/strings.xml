@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="item_profile_picture">Item Profile Picture</string>
+    <string name="back_arrow">back arrow</string>
+    <string name="star">star</string>
+    <string name="menu">menu</string>
+    <string name="call_button">call button</string>
+    <string name="video_cam">video cam</string>
+    <string name="message_icon">message icon</string>
+    <string name="mobile">Mobile</string>
+    <string name="personal">Personal</string>
+    <string name="contacts">Contacts</string>
+</resources>
